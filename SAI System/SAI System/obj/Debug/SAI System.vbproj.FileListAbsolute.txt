@@ -1,0 +1,36 @@
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\SAI System.exe.config
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\SAI System.exe
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\SAI System.pdb
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\SAI System.xml
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\MySql.Data.dll
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\bin\Debug\MySql.Data.xml
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI System.vbprojResolveAssemblyReference.cache
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Resources.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI System.vbproj.GenerateResource.Cache
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI System.exe
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI System.xml
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI System.pdb
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Employee.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Login.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Manager.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Edit_Product.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Edit_Employee.resources
+C:\Users\Savacion\Documents\SIMS\SAI System\SAI System\obj\Debug\SAI_System.Sales_Transaction.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\SAI System.exe.config
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI System.exe
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI System.xml
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI System.pdb
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\SAI System.exe
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\SAI System.pdb
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\SAI System.xml
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\MySql.Data.dll
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\bin\Debug\MySql.Data.xml
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI System.vbprojResolveAssemblyReference.cache
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Edit_Employee.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Edit_Product.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Employee.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Login.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Manager.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Resources.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI_System.Sales_Transaction.resources
+C:\Users\Savacion\Documents\VBproject\SAI System\SAI System\obj\Debug\SAI System.vbproj.GenerateResource.Cache
